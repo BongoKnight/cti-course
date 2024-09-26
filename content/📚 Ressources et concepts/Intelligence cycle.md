@@ -11,6 +11,7 @@ Ce modèle issu du monde du renseignement détaille les différentes étapes né
 - **Analyse et production**: Analyse des informations unitaires pour les lier entre elles et répondre aux interrogations du destinataire.
 - **Dissémination**: Rendu de l'analyse finale au destinataire. Les renseignements produits soulèvent généralement de nouvelles questions. Le cycle peut recommencer.
 
+
 ![[📎 Attachments/Intelligence_cycle.excalidraw.png]]
 
 # Ressources

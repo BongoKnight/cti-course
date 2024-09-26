@@ -1,9 +1,10 @@
 ---
 aliases:
   - modèle en diamant
-draft: true
 ---
+
 ![[📎 Attachments/Diamondmodel.excalidraw.png]]
+
 # Données principales
 
 Ce modèle est couramment utilisé pour modéliser les informations collectées sur une attaque informatique. Il permet de représenter facilement comment un *attaquant* utilise ses *capacités* via une *infrastructure* pour effectuer une action malveillante contre une *victime*. Dans sa forme la plus simple, il répond à plusieurs questions courantes : Qui? Comment? Avec quels moyens?
@@ -19,8 +20,9 @@ Les quatre sommets du diamant représentent :
 
 Cependant le modèle initial prévoit l'introduction **de métadonnées complémentaires** qui permettent la contextualisation de l'information:
 
--  Des horodatages de début et/ou de fin,
-- 
+-  Des **horodatages** de début et/ou de fin,
+-  A quelle **phase** d'une attaque la représentation s'applique, on utilise généralement les phases définies dans la [[📚 Ressources et concepts/Kill Chain|Kill Chain]],
+- Le **statut**, est ce que l'attaque ou la phase représentée a réussi, et si c'est le cas si elle impacte la confidentialité, l'intégrité ou l’accessibilité des données.   
 
 # Description de l'activité d'un attaquant
 

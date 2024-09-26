@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-GB",
     baseUrl: "https://bongoknight.github.com/cti-course/",
-    ignorePatterns: ["private", "templates", ".obsidian",".git"],
+    ignorePatterns: ["private", "templates", ".obsidian",".git","Excalidraw"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
