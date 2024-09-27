@@ -1,0 +1,3 @@
+> [!NOTE] Style, typos et écriture inclusive
+> L'informatique au sens large manque [cruellement](https://cyber.gouv.fr/publications/lattractivite-des-metiers-de-la-cybersecurite-vues-par-les-professionnels) de diversité. Dans un objectif de représentativité et afin d'y attirer de nouveaux profils, ce cours est écrit en utilisant l'écriture inclusive, n'en déplaise aux croulants grabataires de l'Académie.  
+> Toutes erreurs, oublis ou indélicatesses commises à ce sujet peuvent m'être signalées sur Mastodon ou sur GitHub. Il en est de même pour les erreurs de style, les typographies, les incohérences ou les erreurs factuelles. Tout retour est bon à prendre. 

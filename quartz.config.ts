@@ -8,13 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "CTI Introduction",
+    pageTitle: "Introduction à la CTI",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-GB",
+    locale: "fr-FR",
     baseUrl: "https://bongoknight.github.com/cti-course/",
     ignorePatterns: ["private", "templates", ".obsidian",".git","Excalidraw"],
     defaultDateType: "created",

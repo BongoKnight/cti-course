@@ -11,7 +11,7 @@ $$
 Niveau\ de\ risque= f(Impact, Probabilité )
 $$
 
-Il est primordial pour une entreprise d'évaluer les risques auxquels elle est exposée. De nombreux modèles existent comme ISO 27001 et la méthode EBIOS et permettent de faire l'inventaire des menaces et des risques auxquels une organisation est confrontée. Une fois les risques identifiés, il est possible de décider lesquels sont acceptables et de mettre en place un plan de remédiation pour les autres. 
+Il est primordial pour une entreprise d'évaluer les risques auxquels elle est exposée. De nombreux modèles existent comme ISO 27001 ou EBIOS et permettent de faire l'inventaire des menaces et des risques auxquels une organisation est confrontée. Une fois les risques identifiés, il est possible de décider lesquels sont acceptables et de mettre en place un plan de remédiation pour les autres. 
 
 # Ressources
 

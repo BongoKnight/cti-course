@@ -1,6 +1,7 @@
 ---
 aliases:
   - cycle du renseignement
+  - Intelligence cycle
 ---
 
 Ce modèle issu du monde du renseignement détaille les différentes étapes nécessaires pour produire un renseignement:

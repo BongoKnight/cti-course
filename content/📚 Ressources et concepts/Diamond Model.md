@@ -28,7 +28,7 @@ Cependant le modèle initial prévoit l'introduction **de métadonnées complém
 
 Le modèle complet prévoit de détailler avec un modèle en diamant chaque étape de la [[Kill Chain]]. En pratique, cette représentation est complexe, demande d'avoir beaucoup d'information sur une seule attaque, prend du temps à rédiger et est, in fine, rarement utilisée. Afin de détailler les capacités d'un acteur aux différentes phases d'une attaque, les rapports de threat intelligence intègrent plutôt une cartographie ou un tableaux listant les techniques [[📚 Ressources et concepts/Mitre ATT&CK|Mitre ATT&CK]] employées.
 
-![[Activity_thread.png]]
+![[📎 Attachments/Activity_thread.png]]
 
 # Utilisation pour le regroupement de plusieurs campagnes
 
