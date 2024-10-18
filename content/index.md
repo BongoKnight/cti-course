@@ -3,7 +3,9 @@ aliases:
 title: Introduction à la CTI
 ---
 
-> **Le contenu a été écrit en Octobre 2024.**
+> **Le contenu a été écrit de Septembre à Novembre 2024.**
+
+
 # Introduction
 
 
