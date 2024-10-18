@@ -37,7 +37,7 @@ Enfin la CTI s'applique bien à des sujets qui sont assez peu traités par la co
 
 ## Olympic Destroyer: un acteur étatique
 
-Cette campagne est plus ancienne, mais est intéressante vis à vis de l'actualité 2024. En effet, Olympique Destroyer est une campagne d'attaque qui a ciblé les JOP d'Hiver 2018 à Pyeongchang. Olympic Destroyer a perturbé la cérémonie d’ouverture de l’évènement en rendant inopérant le site Internet, l’impression des billets, la connexion Wi-Fi, le système de vidéosurveillance, ainsi que certains affichages dans le stade et de la retransmission des flux vidéo. Ces attaques ont par la suite été attribué par plusieurs pays au Service de renseignement militaire russe (GRU) et expliquent en grande partie l'inquiétude qu'il y avait autour du risque cyber lors des JOP de Paris 2024. 
+Cette campagne est plus ancienne, mais est intéressante vis à vis de l'actualité 2024. En effet, Olympique Destroyer est une campagne d'attaque qui a ciblé les JOP d'Hiver 2018 à Pyeongchang. Olympic Destroyer a perturbé la cérémonie d’ouverture de l’évènement en rendant inopérant le site Internet, l’impression des billets, la connexion Wi-Fi, le système de vidéosurveillance, ainsi que certains affichages dans le stade et de la retransmission des flux vidéo. [^5] Ces attaques ont par la suite été attribué par plusieurs pays au Service de renseignement militaire russe (GRU) et expliquent en grande partie l'inquiétude qu'il y avait autour du risque cyber lors des JOP de Paris 2024. 
 
 ## RansomHub: un acteur cybercriminel
 
