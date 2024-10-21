@@ -5,9 +5,10 @@ aliases:
 
 ![[📎 Attachments/Diamondmodel.excalidraw.png]]
 
-# Données principales
+
 
 Ce modèle est couramment utilisé pour modéliser les informations collectées sur une attaque informatique. Il permet de représenter facilement comment un *attaquant* utilise ses *capacités* via une *infrastructure* pour effectuer une action malveillante contre une *victime*. Dans sa forme la plus simple, il répond à plusieurs questions courantes : Qui? Comment? Avec quels moyens?
+# Données principales
 
 Les quatre sommets du diamant représentent :
 

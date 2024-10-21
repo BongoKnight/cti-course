@@ -60,6 +60,8 @@ La Corée du Nord mène depuis des années de nombreuses campagnes à l'encontre
 Je n'aime pas particulièrement ce terme, mais la cyber c'est pour dire qu'on parle d'ordinateurs. Le renseignement est un vaste monde, et il faut bien préciser de quoi on cause. Ici, on ne parlera pas de renseignement économique, ou de renseignement sur les menaces terroristes mais bien de renseignements sur les attaques informatiques: qui les effectue et comment?
 
 
+
+
 [^1]: [https://www.gov.uk/government/speeches/minister-for-europe-statement-attempted-hacking-of-the-opcw-by-russian-military-intelligence](https://www.gov.uk/government/speeches/minister-for-europe-statement-attempted-hacking-of-the-opcw-by-russian-military-intelligence)
 [^2]: [https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-241a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-241a)
 [^3]: [https://go.recordedfuture.com/hubfs/reports/cta-2023-1130.pdf](https://go.recordedfuture.com/hubfs/reports/cta-2023-1130.pdf)
