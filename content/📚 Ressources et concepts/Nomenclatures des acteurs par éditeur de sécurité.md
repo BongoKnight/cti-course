@@ -10,7 +10,7 @@ Mandiant, qui a été racheté par FireEye puis plus récemment par Google, util
 
 ## Recorded Future
 
-- **<Couleur><Lettre de l'alphabet phonétique de l'OTAN>**: Pour les acteurs étatiques, la couleur correspond à la couleur dominante du drapeau du pays (Red pour la Chine, Green pour l'Iran), ou à une nuance de cette couleur si déja utilisée. L'alphabet de l'OTAN est disponible [ici](https://www.nato.int/cps/en/natohq/news_150391.htm?selectedLocale=fr). Ce qui donne par exemple GreenCharlie.
+- **\<Couleur\>\<Lettre de l'alphabet phonétique de l'OTAN\>**: Pour les acteurs étatiques, la couleur correspond à la couleur dominante du drapeau du pays (Red pour la Chine, Green pour l'Iran), ou à une nuance de cette couleur si déja utilisée. L'alphabet de l'OTAN est disponible [ici](https://www.nato.int/cps/en/natohq/news_150391.htm?selectedLocale=fr). Ce qui donne par exemple GreenCharlie.
 - **GreyX**, où X est un nombre pour les acteurs cybercriminels qui n'ont pas de noms déclarés,
 - Des termes mathématiques ou scientifiques pour les virus que l'entreprise découvre (GraphicalNeutrino), 
 - **TAG-XXX**, où X est un nombre pour les clusters d'activités non attribués.
