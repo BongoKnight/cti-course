@@ -1,5 +1,5 @@
 
-Chaque éditeur de sécurité a sa propre nomenclature de nommage. Lorsque un éditeur documente pour la première fois un code malveillant, un acteur ou une campagne d'attaque, il va la nommer. Mais Internet est vaste, et parfois ce nommage fait doublon avec une activité précédemment documentée par d'autres que l'analyste n'a pas vu lors de la rédaction de son rapport. Il est aussi possible qu'iel ait lu des rapports antérieurs, mais  qu'un doute subsiste: est-ce qu'il s'agit oui ou non de la même chose? Dans le doute, iel donne un nouveau nom, et tant pis pour l'ancien, s'il s'agit de la même chose on s'en rendra compte plus tard! L'Amérique avait surement un nom avant que les Européens la découvrent. C'est ainsi qu'un même groupe d'attaquants peut se retrouver avec de nombreux alias! Ce résumé vous permettra de comprendre en un coup d’œil par qui un acteur a été nommé et pourquoi.
+Chaque éditeur de sécurité a sa propre nomenclature. Lorsque un éditeur documente pour la première fois un code malveillant, un acteur ou une campagne d'attaque, il va la nommer. Mais Internet est vaste, et parfois ce nommage fait doublon avec une activité précédemment documentée par d'autres que l'analyste n'a pas vu lors de la rédaction de son rapport. Il est aussi possible qu'iel ait lu des rapports antérieurs, mais  qu'un doute subsiste: est-ce qu'il s'agit oui ou non de la même chose? Dans le doute, iel donne un nouveau nom, et tant pis pour l'ancien, s'il s'agit de la même chose on s'en rendra compte plus tard! L'Amérique avait surement un nom avant que les Européens la découvrent. C'est ainsi qu'un même groupe d'attaquants peut se retrouver avec de nombreux alias! Ce résumé vous permettra de comprendre en un coup d’œil par qui un acteur ou un virus a été nommé et pourquoi.
 
 # Mandiant - FireEye - Google Cloud
 
@@ -10,6 +10,9 @@ Mandiant, qui a été racheté par FireEye puis plus récemment par Google, util
 
 ## Recorded Future
 
+- **<Couleur><Lettre de l'alphabet phonétique de l'OTAN>**: Pour les acteurs étatiques, la couleur correspond à la couleur dominante du drapeau du pays (Red pour la Chine, Green pour l'Iran), ou à une nuance de cette couleur si déja utilisée. L'alphabet de l'OTAN est disponible [ici](https://www.nato.int/cps/en/natohq/news_150391.htm?selectedLocale=fr). Ce qui donne par exemple GreenCharlie.
+- **GreyX**, où X est un nombre pour les acteurs cybercriminels qui n'ont pas de noms déclarés,
+- Des termes mathématiques ou scientifiques pour les virus que l'entreprise découvre (GraphicalNeutrino), 
 - **TAG-XXX**, où X est un nombre pour les clusters d'activités non attribués.
 
 # Microsoft
@@ -49,8 +52,8 @@ Crowdstrike utilise une nomenclature par type d'acteur similaire à celle utilis
 
 # Ressources
 
-
 - APT suivies par Mandiant: [https://www.mandiant.com/resources/insights/apt-groups](https://www.mandiant.com/resources/insights/apt-groups)
 - Microsoft: [https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming](https://learn.microsoft.com/en-us/defender-xdr/microsoft-threat-actor-naming)
 - Crowdstrike: [https://crowdstrike.com/explore/crowdstrike-2024-threat-hunting-report/crowdstrike-2024-threat-hunting-report](https://crowdstrike.com/explore/crowdstrike-2024-threat-hunting-report/crowdstrike-2024-threat-hunting-report)
+- RecordedFuture: [https://go.recordedfuture.com/hubfs/white-papers/threat-actor-malware-taxonomy.pdf](https://go.recordedfuture.com/hubfs/white-papers/threat-actor-malware-taxonomy.pdf)
 - Générateur aléatoire de noms d'APT: [https://falling-anvil.com/cyberthreaterator/](https://falling-anvil.com/cyberthreaterator/)
