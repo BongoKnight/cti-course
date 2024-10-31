@@ -14,4 +14,5 @@ Ce modèle liste 6 types d'indicateurs techniques ou comportementaux qui sont de
 
 # Ressources
 
-Article on Pyramid of Pain: [http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
+- Article sur la Pyramid of Pain: [http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)
+- Article de FireEye avec plus d'exemples sur les différents niveaux : [https://github.com/hslatman/awesome-threat-intelligence/blob/main/docs/pyramidofpain.pdf](https://github.com/hslatman/awesome-threat-intelligence/blob/main/docs/pyramidofpain.pdf)  

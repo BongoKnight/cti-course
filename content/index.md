@@ -27,6 +27,8 @@ En fonction de l'organisation demandeuse du renseignement, les [[📚 Ressources
 
 Pour une entreprise, les besoins sont autres. Une entreprise veut défendre son système d'information (SI) qui contient des données sensibles liées à son activité: des données clients,  des brevets,  ses partenaires, des documents compromettants... Son besoin en renseignement est orienté sur la protection de son SI et assez peu sur l'origine des attaques, l'importance est de se prémunir des attaques en connaissant les méthodes et les infrastructures utilisées par tout groupe susceptible de menacer ses intérêts.
 
+La plupart des articles détaillant les mécanismes de la production du renseignement sont disponibles ici: [https://bongoknight.github.io/cti-course/%F0%9F%93%9A-Ressources-et-concepts/](https://bongoknight.github.io/cti-course/%F0%9F%93%9A-Ressources-et-concepts/)
+
 # Threat: Quelles menaces?
 
 En CTI, les entreprises de cybersécurité distinguent généralement trois types d'acteurs: les [[👩🏽‍💻 Acteurs/APT|acteurs étatiques]] dont la motivation principale est l'espionnage et les acteurs cybercriminels qui ont des motivations financières et les [[👩🏽‍💻 Acteurs/Hacktivistes|hacktivistes]] qui ont des raisons idéologiques. (*cf. [[📚 Ressources et concepts/Nomenclatures des acteurs par éditeur de sécurité|Nomenclatures des acteurs par éditeur de sécurité]]*) 
@@ -54,6 +56,8 @@ En Août 2024, le CISA (organisme en charge de la cybersécurité aux Etats-Unis
 ### La Corée du Nord
 
 La Corée du Nord mène depuis des années de nombreuses campagnes à l'encontre des crypto-monnaies qui permettent de financer le pays. Fin 2023, Recorded Future[^3] a publié un long rapport sur toutes ces attaques qui ont permis de détourner plus de 3 milliards d'euros depuis 2017. En 2022, ces vols représentaient 1,7 milliards d'euros, soit 5% du PIB du pays et 45% des dépenses militaires.
+
+Les articles déta
 
 # Cyber: l'informatique
 
